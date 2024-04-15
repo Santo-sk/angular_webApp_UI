@@ -30,6 +30,7 @@
               "src/assets"
             ],
             "styles": [
+              "primeng/resources/themes/bootstrap4-light-purple/theme.css",
               "src/styles.scss"
             ],
             "scripts": []
